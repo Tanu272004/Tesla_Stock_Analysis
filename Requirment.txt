@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+mysql-connector-python
+azure-storage-blob
